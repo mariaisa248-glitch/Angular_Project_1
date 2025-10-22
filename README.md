@@ -1,3 +1,4 @@
-# Angular_Project_1
+# Angular_Project_1: Libreria Nexus
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/mariaisa248-glitch/Angular_Project_1)
+Realizado por: Maria Isabel Marquez
+Master Desarrollo Web con Frameworks Front-End
